@@ -1,0 +1,11 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="dfb3a77e-0219-4798-a7c1-82f6bece3421" ml:package="com.iotblink1" ml:version_code="1" ml:version_name="0.0.1">
+  <application ml:min_api_level="2" ml:sdk_version="1.0" ml:visible_name="iotblink1">
+    <component ml:binary_name="bin/index.js" ml:name=".universe" ml:type="Universe" ml:visible_name="iotblink1">
+      <mode ml:shareable="true" />
+      <icon ml:model_folder="" ml:portal_folder="" />
+    </component>
+    <uses-privilege ml:name="MagicScript" />
+    <uses-privilege ml:name="Internet" />
+    <uses-privilege ml:name="LocalAreaNetwork" />
+  </application>
+</manifest>

@@ -1,0 +1,1509 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "cf449c5311b652fb144bb91968f91c9dd61cae0b",
+   "pkgpath": "resources/README.md",
+   "size": 44,
+   "src": "/Users/topher/Projects/iotblink1/lumin/../resources/README.md"
+  },
+  {
+   "compression": 8,
+   "hash": "d674601b4a988fcb9c543f2811f1edb7755111e0",
+   "pkgpath": "bin/_virtual/ReactPropTypesSecret.js",
+   "size": 164,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/ReactPropTypesSecret.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d81c0ab499ba010cf5d67470531b98fa147434b1",
+   "pkgpath": "bin/_virtual/_commonjsHelpers.js",
+   "size": 515,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/_commonjsHelpers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1114a64635694e974e22d3de56ab7824937239e1",
+   "pkgpath": "bin/_virtual/checkPropTypes.js",
+   "size": 142,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/checkPropTypes.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d1d084d349f88655717b2e863ca8254337041055",
+   "pkgpath": "bin/_virtual/index.js",
+   "size": 128,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3fa6d147756d2d40946eeaeffa395370c0e8e020",
+   "pkgpath": "bin/_virtual/index2.js",
+   "size": 106,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/index2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "acf42f141e142eae7aad467861e975dfbeab5341",
+   "pkgpath": "bin/_virtual/index3.js",
+   "size": 118,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/index3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b64b1ea374ccefbb20fb5b45f0b3083ec709b322",
+   "pkgpath": "bin/_virtual/react-reconciler.development.js",
+   "size": 188,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/react-reconciler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "55bc4a8c7e51a9f9d4891f5e4690bced98cdb046",
+   "pkgpath": "bin/_virtual/react-reconciler.production.min.js",
+   "size": 197,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/react-reconciler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1c17149b58ee43ec3646e1ef4f386f51903457c2",
+   "pkgpath": "bin/_virtual/react.development.js",
+   "size": 146,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/react.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a1a4729fb3a9ddbcf58194408713e40bac7f2789",
+   "pkgpath": "bin/_virtual/react.production.min.js",
+   "size": 155,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/react.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e4db34f343a8546ee91e8b4e4bd966626723c0fb",
+   "pkgpath": "bin/_virtual/scheduler-tracing.development.js",
+   "size": 184,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/scheduler-tracing.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "eb12edb71a7d355f703b018d9d10feab42c3372c",
+   "pkgpath": "bin/_virtual/scheduler-tracing.production.min.js",
+   "size": 193,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/scheduler-tracing.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "da24f7d3a731b01d06cf8e9f5a392528fbf6a0eb",
+   "pkgpath": "bin/_virtual/scheduler.development.js",
+   "size": 162,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/scheduler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a7bf9b4715dfaa02833a6f83acab943723cbf586",
+   "pkgpath": "bin/_virtual/scheduler.production.min.js",
+   "size": 171,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/scheduler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0deea30b589c6e95bfeb758b37babe77401b234b",
+   "pkgpath": "bin/_virtual/tracing.js",
+   "size": 116,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/_virtual/tracing.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3c2d008a387ab1fcff1aec1d2fa67ccf320be78e",
+   "pkgpath": "bin/index.js",
+   "size": 55,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2223621ddfbfc016d0495e42d5fd2d19ee984360",
+   "pkgpath": "bin/lumin/node_modules/chroma-js/chroma.js",
+   "size": 100039,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/chroma-js/chroma.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7287f81903e4cb9459691551175a0e430f8404b3",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/index.js",
+   "size": 725,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4bd483101826827638e6f2fc7af5c81b4a954882",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/configuration.js",
+   "size": 455,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/configuration.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6a9e4791c12da6d8114a3869004cc3a2b2a97ff5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/core/native-factory.js",
+   "size": 463,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/core/native-factory.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e6e65a16dab3432fe6b69b02d08b61d929ba741c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/component-mapping.js",
+   "size": 4940,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/component-mapping.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cfc4622bcd931c2f27458b64e187a14ec12d6204",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/controllers/app-prism-controller.js",
+   "size": 5024,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/controllers/app-prism-controller.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0f5f4f0e667de00bd72073a68f5ab61118c0dabb",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/controllers/builders/controller-builder.js",
+   "size": 3053,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/controllers/builders/controller-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c4a20905660b03c909c4d8cf3ca5bc695c13b053",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/controllers/mxs-prism-controller.js",
+   "size": 5379,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/controllers/mxs-prism-controller.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7c3dc457ee0700e5e595d478f79cf9e12a8f5ddc",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/audio-builder.js",
+   "size": 12745,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/audio-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f5bafa7b0a1b04538d49b38f492166de93152c8d",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/button-builder.js",
+   "size": 5201,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/button-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7de3147a1fd3fd3bffbab95ee046357e4a1c1190",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/circle-confirmation-builder.js",
+   "size": 1026,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/circle-confirmation-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fae2706608f0592fbaf69110c9ec080d82f81b5a",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/color-picker-builder.js",
+   "size": 1364,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/color-picker-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3cfcfe8f85b06c0115a0a57b9788c7e6e936dbfc",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/date-picker-builder.js",
+   "size": 3333,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/date-picker-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9045c6d00fd4d63c7d87ef945d287f33cecf3373",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/dialog-builder.js",
+   "size": 3868,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/dialog-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7c324fcf666a1b21f7fd329df26bb7443bcbc60a",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/dropdown-list-builder.js",
+   "size": 4053,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/dropdown-list-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5abefc1fe0746c706cc1e212fbeb645da1b2b495",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/dropdown-list-item-builder.js",
+   "size": 3072,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/dropdown-list-item-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8085f665091c916fe6c8b65c960dcaafd480e2f5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/element-builder.js",
+   "size": 3379,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/element-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "83f459b82ad84a4717c0b4d50b0766fdd3ddcfbd",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/grid-layout-builder.js",
+   "size": 4865,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/grid-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a6e963d2b329269c560a243ff8afa8e712dbd639",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/group-builder.js",
+   "size": 423,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/group-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b461ed2bef2cf84d940456254fb5c794b578c6ce",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/image-builder.js",
+   "size": 5095,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/image-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "543304cee9dc30ae1b654f3eeadd929176f87526",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/layout-builder.js",
+   "size": 1381,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0f308f8e9b00b3c75d7bceeb27c218def5756fff",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/light-builder.js",
+   "size": 2133,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/light-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "59df63d7db93a43514999b1278b2a22325620c99",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/line-builder.js",
+   "size": 1045,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/line-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "25209202c9a913f5ac61c445f7fb3cce0a38503f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/linear-layout-builder.js",
+   "size": 3429,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/linear-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9b8d28edfb39878b4f140d19072fef57b9224c50",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/list-view-builder.js",
+   "size": 5224,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/list-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e3a4112f3dad6859b3900fc44e19b9b00ae126ab",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/list-view-item-builder.js",
+   "size": 1794,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/list-view-item-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1cd7872e2e529f70912443360e8af36a970054b3",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/loading-spinner-builder.js",
+   "size": 2874,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/loading-spinner-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a18743f55c9008dc3788bf095e5958e125771fa8",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/model-builder.js",
+   "size": 6631,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/model-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "78b46e51669ef1da40b073ee73ee2a1cafd43383",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/page-view-builder.js",
+   "size": 3578,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/page-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "27ffacc975a0c267a92b54c823cd65d9bba044cf",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/panel-builder.js",
+   "size": 4208,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/panel-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5fcca551dc1df6fb6c4360e948bdaaa8341747b3",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/portal-icon-builder.js",
+   "size": 3397,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/portal-icon-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "607a2f0c5a90af5b95873e30611ebe395fee42cc",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/positional-layout-builder.js",
+   "size": 1177,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/positional-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b343936128456056806400bc4c8de1ae447e4ef1",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/progress-bar-builder.js",
+   "size": 2425,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/progress-bar-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b22bae54f786ce52d415aa42018353d8ea6fc008",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/quad-builder.js",
+   "size": 2919,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/quad-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "afcec9b6dea2e54d1b93c07ddac8e971d923c440",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/rect-layout-builder.js",
+   "size": 938,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/rect-layout-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5252102a9afefaa5a7aeb03c1187840614fe2e5d",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/render-builder.js",
+   "size": 3292,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/render-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b8b5df75c53886fa2f93aa77e5d7a879485be208",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/scroll-bar-builder.js",
+   "size": 2198,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/scroll-bar-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0b078ed7ee0581ee419fa2327b23e7041a38ee8d",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/scroll-view-builder.js",
+   "size": 2391,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/scroll-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "705dc75596146feae0f35afa1868cb151b7f2f43",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/slider-builder.js",
+   "size": 1629,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/slider-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c08706713c27bf9415989e0da03c7eb3d2e3d6e5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/tab-builder.js",
+   "size": 2095,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/tab-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "adc5c4a20477f2f1e7764f15748073eee00cd661",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-builder.js",
+   "size": 8308,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b67c1e5ed4d61c146bed531a23a1f0bf6282bf5c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-container-builder.js",
+   "size": 631,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-container-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ed8ce224ead603ddd25aa02329343679d5855392",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-edit-builder.js",
+   "size": 10992,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-edit-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d0ab247dc1e03ec4ba3f4fec77cf40c64e05f11c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-provider-builder.js",
+   "size": 1272,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/text-provider-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "006ec143a78729f1e50bacb470b04993c37693eb",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/time-picker-builder.js",
+   "size": 2914,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/time-picker-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a89629f85b5c0a50cfac4b08d9a134b82aae3a6a",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/toggle-builder.js",
+   "size": 2331,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/toggle-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4c17eee344fe3130ce38804a3b80603f8404a249",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/toggle-group-builder.js",
+   "size": 1385,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/toggle-group-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9c2d35c1c6ed3d9e3b4eefb0f91f53c175fdb0be",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/transform-builder.js",
+   "size": 4943,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/transform-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "05198d1c5ade45afe49187116fa77b8626c37e3e",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/ui-node-builder.js",
+   "size": 4639,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/ui-node-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ec970e48d36dd414915535e93fdebca2c0324fe3",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/video-builder.js",
+   "size": 3640,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/video-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5fcb2d0501c5f537f042f1ed10bb909d52a0dfcf",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/web-view-builder.js",
+   "size": 2612,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/builders/web-view-builder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fcf2176143c226c74810b47f80346ceffca3add2",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/array-property.js",
+   "size": 1001,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/array-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "81bf2f9b41f9c2b6ab53ccc62ff32f7a7bb1c98b",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/children-property.js",
+   "size": 891,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/children-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "444b7790308bd895460d696ce79c043675fe949a",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/class-property.js",
+   "size": 1066,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/class-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9c2335b42c6f37aacf8837e8c4028288ab129cbe",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/color-property.js",
+   "size": 1443,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/color-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d56b60bc331df24f4d0658c5b38b1f0d1b6482b4",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/component-children-property.js",
+   "size": 897,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/component-children-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "017f72c52a61e4a954ad013082877e79b3e564b6",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/enum-property.js",
+   "size": 960,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/enum-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "45d512881d632fa99c04b0a53d6afc65785de0c8",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/primitive-type-property.js",
+   "size": 527,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/primitive-type-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4b5671225d49f5f428e036113df021b736a3c3ae",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/property-descriptor.js",
+   "size": 3329,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/property-descriptor.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ae53b94c2fbd0098b6fe73a934095e4c0c961e0c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/text-children-property.js",
+   "size": 944,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/elements/properties/text-children-property.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0e5202a9fad4fb7be4c9afe8b411860c8d10d4e5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/mxs-landscape-app.js",
+   "size": 1844,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/mxs-landscape-app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "853132924c28bc74441c70dba439ee1833810323",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/native-plane-detector.js",
+   "size": 1374,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/native-plane-detector.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5d5fe7eda69aa6ef98a2b265bf57e58f22365473",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/platform-factory.js",
+   "size": 13125,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/platform-factory.js"
+  },
+  {
+   "compression": 8,
+   "hash": "caf69f658352d96649e95345821466d14a0f03c1",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/platform-information.js",
+   "size": 153,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/platform-information.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0dc3ba9101f63ebac5cb6a53014469ed82035210",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/advance-direction.js",
+   "size": 515,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/advance-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6402cd08ae4b8811a2acbd7e861678909896833f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/alignment.js",
+   "size": 656,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/alignment.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1df92c2ad1af5997686efe0b3eed2143e25a738c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/audio-action.js",
+   "size": 262,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/audio-action.js"
+  },
+  {
+   "compression": 8,
+   "hash": "960673e74eeea78f3ea1c9e66e09ecd4c61161e8",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/controller-events.js",
+   "size": 810,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/controller-events.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8998bf080672dab4422d948ed51fba5faf6ccb8c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/cursor-edge-scroll-mode.js",
+   "size": 389,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/cursor-edge-scroll-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c25c29adc71e8581faf0d6abb649a5f0da50b2c0",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/cursor-hover-state.js",
+   "size": 1056,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/cursor-hover-state.js"
+  },
+  {
+   "compression": 8,
+   "hash": "488f543e0edb184b8b3206e6b55dd5a17f9e83cf",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/date-format.js",
+   "size": 1933,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/date-format.js"
+  },
+  {
+   "compression": 8,
+   "hash": "adb79ee6333ad1e597e194467103df4d8b3538bb",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/dialog-layout.js",
+   "size": 341,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/dialog-layout.js"
+  },
+  {
+   "compression": 8,
+   "hash": "faa1a6881be092d161684771c2734ca7329edcf2",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/dialog-type.js",
+   "size": 465,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/dialog-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ec81df4876573c02f8849b8ed030317a83fa33f4",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/eclipse-button-type.js",
+   "size": 481,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/eclipse-button-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e35f33426aa65c767810c81d1dceef9de484d1ed",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/eclipse-label-type.js",
+   "size": 804,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/eclipse-label-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "359f397b2aebfc8866af6702cb1d6a714db85e83",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/circle-confirmation-event-data.js",
+   "size": 479,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/circle-confirmation-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fd05274fb6e080015a0e09cd2f9237894df9b65d",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/color-picker-event-data.js",
+   "size": 458,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/color-picker-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b03d70b3cbe501014a7b0fa3a035be6d2c308609",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/control-pose-3dof-Input-event-data.js",
+   "size": 1116,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/control-pose-3dof-Input-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1c4c5b8bc01127d40e80f21ce1a87dfde398f4f0",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/control-pose-6dof-input-event-data.js",
+   "size": 552,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/control-pose-6dof-input-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c769ddb350c6502a60811795dbe424efc1f20086",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/control-touch-pad-input-event-data.js",
+   "size": 994,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/control-touch-pad-input-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d3cd58102e91e0cc19a99e6463d33d350c6253bd",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/date-picker-event-data.js",
+   "size": 480,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/date-picker-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d0415d5b9bfa5b0bed902b147462e26c3078b7df",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/drop-down-list-event-data.js",
+   "size": 966,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/drop-down-list-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "426f97c07b52160c6751940376bed30146fc0c3e",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/event-data.js",
+   "size": 904,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "73fec19423e4a384e8f53e2bd7b5e35023c864db",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/eye-tracking-event-data.js",
+   "size": 2537,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/eye-tracking-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f7e6b252621c5e431abb48a931a8c34ef9d50f0b",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/gesture-input-event-data.js",
+   "size": 3548,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/gesture-input-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d92675366d5287023179fbf2374f1057a761cd47",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/input-event-data.js",
+   "size": 939,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/input-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0fc7e386ef5598c4b182d6e772f37217524cff74",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/key-input-event-data.js",
+   "size": 825,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/key-input-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "635a7349f5b58d7687e3965819ef35e9777496c7",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/node-event-data.js",
+   "size": 1494,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/node-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3e67357ea51def09c1054cec99c22a008a407946",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/prism-event-data.js",
+   "size": 2412,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/prism-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e7dfff2110ffc48d1796429ba88d374f64203206",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/progress-bar-event-data.js",
+   "size": 525,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/progress-bar-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cfd21b2bc1c489be12a6884c0ddaeb4440424a6f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/ray-cast-event-data.js",
+   "size": 832,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/ray-cast-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1cdd97736d5c49c68cf4f21afe1d0685eca9db9f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/scroll-view-event-data.js",
+   "size": 640,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/scroll-view-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "42dd509af65ea8c63134289e619a534a0036ace0",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/selection-event-data.js",
+   "size": 759,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/selection-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ea90483078c07ff2447e1de7b5541d00837014bf",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/server-event.js",
+   "size": 756,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/server-event.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0e561827f60b9134ec6791eaab6932ee4af34780",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/slider-event-data.js",
+   "size": 481,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/slider-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e8e2b04c70fe30fd9c8a7bf59879615937a27d86",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/text-edit-event-data.js",
+   "size": 1054,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/text-edit-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b75d767fd439c099df643cf087c7d7d9e2707577",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/time-picker-event-data.js",
+   "size": 480,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/time-picker-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "40a14d8a8fddb8543510c266dd9d68b41570600f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/toggle-event-data.js",
+   "size": 509,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/toggle-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e9333d23498e027c21137cd3c0b8b67dd249c3c2",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/transform-node-event-data.js",
+   "size": 1613,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/transform-node-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1a99b3aa4d0a1f01901a8744851fb0b577e7efdc",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/ui-event-data.js",
+   "size": 1139,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/ui-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "61eef0a157d10cb0265f4ce4d428b3b8cc2c62ca",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/video-event-data.js",
+   "size": 1005,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-data/video-event-data.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0ec9c1833726e583653a75a05bf2e10a88f707dd",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-source.js",
+   "size": 875,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-source.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0e08feca841c6b3ee6c303303cf5692e2d9f8438",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-type.js",
+   "size": 1110,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/event-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ab7888110d07a0ab9e14ee25a71da45eb0f0f6e3",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/flow-direction.js",
+   "size": 425,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/flow-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b5b2d7758f2e4ccffc97c45aebcadb8b197723b5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/focus-request.js",
+   "size": 435,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/focus-request.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cfdb5ed43a00372729d85ba06e10f5f331aaa7f5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/font-style.js",
+   "size": 541,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/font-style.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a3108aa1e571a4e65780c89b4b3439f699af1ccd",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/gesture-direction.js",
+   "size": 711,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/gesture-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1feece4e643ab80d3eb06ce474de12068efb9b90",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/gesture-type.js",
+   "size": 1473,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/gesture-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7874547e6f5a678fac13159ca9c5d5c6b57fd853",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/gravity-well-snap.js",
+   "size": 520,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/gravity-well-snap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "89f0d430ba0242200fd0d07f4c31b4929bfe3923",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/hand-gesture-keypoint-name.js",
+   "size": 2180,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/hand-gesture-keypoint-name.js"
+  },
+  {
+   "compression": 8,
+   "hash": "17f19f7b365e385c4cfb48472c3c1d60ccd66468",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/horizontal-text-alignment.js",
+   "size": 489,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/horizontal-text-alignment.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3ba3d084438e295093b5d71f78705e3a8cdecba2",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/key-codes.js",
+   "size": 12236,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/key-codes.js"
+  },
+  {
+   "compression": 8,
+   "hash": "69537d9d2fb5341c7a2e1cbda3388a0d9d8f6f30",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/label-display-mode.js",
+   "size": 360,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/label-display-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f1813ef42422fb969d72933606a00998e51bad42",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/light-type.js",
+   "size": 364,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/light-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "accb12021b0e4f5fd05bbc1a89acee5efa2c4077",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/loading-spinner-type.js",
+   "size": 413,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/loading-spinner-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ae059482b650f2fc1dd84c83f2737c2a72f18067",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/orientation.js",
+   "size": 349,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/orientation.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fac6e498f3fe77737b9010acf362ce4c861ecc41",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/panel-cursor-transition-type.js",
+   "size": 489,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/panel-cursor-transition-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "db7d9739bf9c43b0dd07909cdac21d7c4ecf6a81",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/panel-edge-constraint-level.js",
+   "size": 603,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/panel-edge-constraint-level.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2b427a5b0b9e2713e0f6e6faf3085e06c84ddc93",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/portal-icon-size.js",
+   "size": 447,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/portal-icon-size.js"
+  },
+  {
+   "compression": 8,
+   "hash": "72050ca9a62e4fb5cadb91284af9448c45a60f59",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/quality.js",
+   "size": 734,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/quality.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1906c1565dfdaaeec3d8c00ca886a5de787b2959",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/ray-cast-event-type.js",
+   "size": 1307,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/ray-cast-event-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ed5bbc0ae30c593cc27fb555aab3de684d182091",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/rendering-layer.js",
+   "size": 663,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/rendering-layer.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cdfb2e6770ea2d11380a71da4b7bb9d86b3b2824",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/scroll-bar-visibility.js",
+   "size": 376,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/scroll-bar-visibility.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a8b6d2f82e6e0ddf16b37f9e3470ea7f6f03cb21",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/scroll-direction.js",
+   "size": 328,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/scroll-direction.js"
+  },
+  {
+   "compression": 8,
+   "hash": "50662c6a8239e36729fb0e748f5d793bad099f4e",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/selection-event-type.js",
+   "size": 413,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/selection-event-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e9d6e441381249c60d4b2cafc1c78a989c93cb9f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/shader-type.js",
+   "size": 374,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/shader-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7b64d769303ab8b2b81e0f5aa08afc5f7041ed78",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/side.js",
+   "size": 300,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/side.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c98c08b59c1fbc8bef953b0a3a4103e0d690b14b",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/sound-event.js",
+   "size": 2090,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/sound-event.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1c11e9da49c45a1da0633724e5cd0653d604246f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/system-icons.js",
+   "size": 10089,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/system-icons.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a40065bb5762ac55516a5d51c2787c2d83f48244",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/text-entry-mode.js",
+   "size": 426,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/text-entry-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cee407d43a11616aced5da21444b3e5a0b3bea77",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/texture-type.js",
+   "size": 843,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/texture-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "da3e5561da58ef77f99dc9d79f2cc715bbe4b592",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/time-format.js",
+   "size": 3030,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/time-format.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3ea06e01ea959abe4c13c50ea662d52af7040d8d",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/time-period.js",
+   "size": 286,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/time-period.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e2ee4ae2bdcb85e88035aed22d6f9fb5bd6cca6f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/toggle-type.js",
+   "size": 343,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/toggle-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "27e5cf50bf58b2736cdadc7a141cb46350511fac",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/ui-node-events.js",
+   "size": 4866,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/ui-node-events.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dd8ddb607de1b3a570485b13c8fc0e149bec0c6a",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/video-action.js",
+   "size": 245,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/video-action.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a903059571a99dfce3e304048d1282adec135f9c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/video-event-type.js",
+   "size": 600,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/video-event-type.js"
+  },
+  {
+   "compression": 8,
+   "hash": "73f9419ab4e8d2983cc89665a5cdb5383a042cda",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/view-mode.js",
+   "size": 322,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/view-mode.js"
+  },
+  {
+   "compression": 8,
+   "hash": "627a329b6615e35c1406ba69ca006806bf6fd3e5",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/web-view-action.js",
+   "size": 256,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/types/web-view-action.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b1b4f8d5b65e09b2bc98f66276cd18addfd54d6b",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/utilities/extractor.js",
+   "size": 285,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/utilities/extractor.js"
+  },
+  {
+   "compression": 8,
+   "hash": "39dee451b041f77b2ec0af388842e8462516fd98",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/utilities/validator.js",
+   "size": 5103,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/platform/lumin-runtime/utilities/validator.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3056a41528a6fb789929c0edb078a0e2f2c09169",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/react-magic-script/magic-script-renderer.js",
+   "size": 12713,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/react-magic-script/magic-script-renderer.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b03f89af657d758b8342a085f4904bd2c6e44b90",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/react-magic-script/react-magic-script.js",
+   "size": 543,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/react-magic-script/react-magic-script.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6b751de24722d60ba3c3d0cf55da61f5baba724a",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/util/gen-type-script.js",
+   "size": 6384,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/util/gen-type-script.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a5f55531860a69ed1183aba6e6e0b291acfe578b",
+   "pkgpath": "bin/lumin/node_modules/magic-script-components-lumin/src/util/logger.js",
+   "size": 811,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-components-lumin/src/util/logger.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2d7c09b6d9de0fb2d7d9fa704b8108cfa8d04c9b",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/Storage.js",
+   "size": 2148,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/Storage.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d344c26a9ceeff8bb40296a577b72a297ff92581",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/assert.js",
+   "size": 211,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/assert.js"
+  },
+  {
+   "compression": 8,
+   "hash": "991701ead1e4d88ca70c0a46ac408ec2c0cfe853",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/bintools.js",
+   "size": 5374,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/bintools.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0b00bbaa8677cce583b9c6bdef2945588e9ee959",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/codec-wrap.js",
+   "size": 1880,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/codec-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "773c9c293a3d11c0ffb7bf9a93693a704c851f22",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/console.js",
+   "size": 788,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/console.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1caf6ca664de74056e12428319d08a5f14b5e93f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/crypto.js",
+   "size": 448,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/crypto.js"
+  },
+  {
+   "compression": 8,
+   "hash": "de9cdd906aa387360bf7ffefaa76e583876aa067",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/evented.js",
+   "size": 1089,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/evented.js"
+  },
+  {
+   "compression": 8,
+   "hash": "564601b93195cf00f3072dc96b54a73a90592b9c",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/fetch.js",
+   "size": 7467,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/fetch.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6a20949f12e41e696fa2dc6d83094880f5abc9fb",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/fs-uv.js",
+   "size": 1236,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/fs-uv.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cdb5eafffd72e1db73829553c41f69d7e7d63577",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/fs.js",
+   "size": 3928,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9ef91d62105008365cdfbf9f871d789bc9d4974e",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/headers.js",
+   "size": 1573,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/headers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "72ac60f4a9b110fc19180d2f5fefd0a9bd0da229",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/http-codec.js",
+   "size": 8593,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/http-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a463ddb17460e051dfd086de8d70ead0fdea59af",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/mime.js",
+   "size": 5784,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/mime.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1bd0e928be035664586ca94e3adf30af7139a1bf",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/node/fs.js",
+   "size": 3314,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/node/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8a209b1e3b9a51b7846bb5ede8ebd9e6a914e12d",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/node/process.js",
+   "size": 241,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/node/process.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7e695090d0f88701874449776d319d03624317b8",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/polyfills.js",
+   "size": 1189,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/polyfills.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dd008681e7f9280f72fb9d20320726b1061589df",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/pretty-print.js",
+   "size": 8567,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/pretty-print.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5a531a5aea8706254fdf577c0231c1d922023310",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/resolve.js",
+   "size": 859,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/resolve.js"
+  },
+  {
+   "compression": 8,
+   "hash": "65a0e5ad85201a130a3d3762a55b1e43951e250f",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/sha1.js",
+   "size": 3563,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/sha1.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c665a011b71fd571aea7703cf3a0a0f96b95343e",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/socket-wrap.js",
+   "size": 2606,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/socket-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "379ff0f739120f40e7f4639225bdf3ed583d4814",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/tcp.js",
+   "size": 944,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/tcp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2ca4e16db232d9bdc449fafae0ca9abec0dcae93",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/text-encoder.js",
+   "size": 2386,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/text-encoder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dc5e2649b5c022004d4afc10d8b343c97d0c9f01",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/timers.js",
+   "size": 2918,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/timers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ba230d3a70e3fe50d3ecd93b66e78cc7109551bc",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/tls-wrap.js",
+   "size": 2384,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/tls-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f6de87e3cda3151010bc63bc466e16419a3b7352",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/utils.js",
+   "size": 967,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/utils.js"
+  },
+  {
+   "compression": 8,
+   "hash": "58b5b3832c864aed0e87381fc3cc44d6bed23072",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/utils2.js",
+   "size": 3852,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/utils2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9d41b2ab54a3bc59488b2a1b14f07af202a38662",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/websocket-codec.js",
+   "size": 3029,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/websocket-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "136f57763011c6265e56a64d6e6d5fd649b702f3",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/websocket.js",
+   "size": 6262,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/websocket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3cf92545c6471c650e68a628ffbd1dc7c5b93390",
+   "pkgpath": "bin/lumin/node_modules/magic-script-polyfills/src/xhr.js",
+   "size": 2352,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/magic-script-polyfills/src/xhr.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fea9a17f3250cd654ad11d97ab57dc7e79d82f2e",
+   "pkgpath": "bin/lumin/node_modules/object-assign/index.js",
+   "size": 2140,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/object-assign/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "852b88858bbee2c883f96e6bc831660cc1355403",
+   "pkgpath": "bin/lumin/node_modules/prop-types/checkPropTypes.js",
+   "size": 3720,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/prop-types/checkPropTypes.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ae79af6947e6a6e4a2c4fc361700e793721a3869",
+   "pkgpath": "bin/lumin/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+   "size": 366,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/prop-types/lib/ReactPropTypesSecret.js"
+  },
+  {
+   "compression": 8,
+   "hash": "91853d2a43dca2e98897703b3a73ab49d401db6c",
+   "pkgpath": "bin/lumin/node_modules/react-reconciler/cjs/react-reconciler.development.js",
+   "size": 552474,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/react-reconciler/cjs/react-reconciler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "667badd95582bf9e193597d14a59a24e0ce5437e",
+   "pkgpath": "bin/lumin/node_modules/react-reconciler/cjs/react-reconciler.production.min.js",
+   "size": 70822,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/react-reconciler/cjs/react-reconciler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2a8764a915cf87f4689e54b964f93bb9d968cd30",
+   "pkgpath": "bin/lumin/node_modules/react-reconciler/index.js",
+   "size": 599,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/react-reconciler/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e13c9fff018f0ec92127e7f110075b9e773762b5",
+   "pkgpath": "bin/lumin/node_modules/react/cjs/react.development.js",
+   "size": 64021,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/react/cjs/react.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e25a868eef6a90fcf1eb95eb12818667899e177c",
+   "pkgpath": "bin/lumin/node_modules/react/cjs/react.production.min.js",
+   "size": 6439,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/react/cjs/react.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7104d3623674c05a395d743e5e23a6fe2da2d65e",
+   "pkgpath": "bin/lumin/node_modules/react/index.js",
+   "size": 525,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/react/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f36e62a6c0395a6b20ec4487cf8d84bbcedc2936",
+   "pkgpath": "bin/lumin/node_modules/scheduler/cjs/scheduler-tracing.development.js",
+   "size": 12179,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/scheduler/cjs/scheduler-tracing.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "685463b93fae40c1c188ca856ebb7ae30d0c421d",
+   "pkgpath": "bin/lumin/node_modules/scheduler/cjs/scheduler-tracing.production.min.js",
+   "size": 2071,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/scheduler/cjs/scheduler-tracing.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8a9f9d8b19dca7b49c3d5ab14459b65a3539acf3",
+   "pkgpath": "bin/lumin/node_modules/scheduler/cjs/scheduler.development.js",
+   "size": 28480,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/scheduler/cjs/scheduler.development.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6c708b6dc6c6af2932185af7124c637dc36dd19c",
+   "pkgpath": "bin/lumin/node_modules/scheduler/cjs/scheduler.production.min.js",
+   "size": 8373,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/scheduler/cjs/scheduler.production.min.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b11117d7ed036f696031bdeec27c096e532c4435",
+   "pkgpath": "bin/lumin/node_modules/scheduler/index.js",
+   "size": 527,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/scheduler/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "eb4b5d9d9af3af1fa3c0d5ae83f729fd68789ef8",
+   "pkgpath": "bin/lumin/node_modules/scheduler/tracing.js",
+   "size": 555,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/node_modules/scheduler/tracing.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b8d8ea4f5970cb0758a836d42d85b96b1b7e051f",
+   "pkgpath": "bin/lumin/src/global-scope.js",
+   "size": 265,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/src/global-scope.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7921959255736607c7b4a152d3502ac9003fad63",
+   "pkgpath": "bin/lumin/src/main.js",
+   "size": 418,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/lumin/src/main.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a11618d02c1f213d0e9eda4d5acd943ca5f6ecec",
+   "pkgpath": "bin/node_modules/magic-script-components/src/components.js",
+   "size": 188,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/node_modules/magic-script-components/src/components.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f4efece28a1b07fe3e7121c836c8c59e50206981",
+   "pkgpath": "bin/src/app.js",
+   "size": 900,
+   "src": "/Users/topher/Projects/iotblink1/lumin/bin/src/app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "71ce94f8045e00eb49d7fbd001fe75e394fb35f7",
+   "pkgpath": "./digest.sha512.signed",
+   "size": 47482,
+   "src": "/Users/topher/Projects/iotblink1/lumin/digest.sha512.signed"
+  },
+  {
+   "compression": 8,
+   "hash": "6e921a644a167447a801ad8fd9924e6ffed7bf39",
+   "pkgpath": "manifest.xml",
+   "size": 650,
+   "src": "/Users/topher/Projects/iotblink1/lumin/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "5ef1384a61034cea53d3e0fffceaac4941804560",
+     "developer_id": "dfb3a77e-0219-4798-a7c1-82f6bece3421",
+     "min_api_level": "2"
+    }
+   },
+   "xfrm_hash": "bf69ce99e886f7dc58bcc0ee841c265bc28cba54",
+   "xfrm_path": "/Users/topher/Projects/iotblink1/lumin/.out/app/debug_lumin_clang-3.8_aarch64/manifest.xml-bdde4fff2d00e515",
+   "xfrm_size": 628
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/topher/MagicLeap/cert/initialdevelopment.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/topher/MagicLeap/cert/initialdevelopment.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
